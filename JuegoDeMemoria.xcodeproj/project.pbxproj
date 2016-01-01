@@ -47,6 +47,7 @@
 		B6E6B8BC1C36AD3D00A3BCAC /* JuegoDeMemoriaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JuegoDeMemoriaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6E6B8C01C36AD3D00A3BCAC /* JuegoDeMemoriaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegoDeMemoriaUITests.swift; sourceTree = "<group>"; };
 		B6E6B8C21C36AD3D00A3BCAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B6E6B8CE1C36AD5800A3BCAC /* JuegoDeMemoria_playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegoDeMemoria_playground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +104,7 @@
 				B6E6B8A71C36AD3C00A3BCAC /* Assets.xcassets */,
 				B6E6B8A91C36AD3D00A3BCAC /* LaunchScreen.storyboard */,
 				B6E6B8AC1C36AD3D00A3BCAC /* Info.plist */,
+				B6E6B8CE1C36AD5800A3BCAC /* JuegoDeMemoria_playground.playground */,
 			);
 			path = JuegoDeMemoria;
 			sourceTree = "<group>";
